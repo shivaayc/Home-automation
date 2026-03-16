@@ -75,8 +75,3 @@ This Smart Home Automation System allows users to control household electrical a
 
 **Total Cost:** Approximately ₹1200-₹1500
 
----
-
-## 📐 Circuit Diagram
-
-### Block Diagram
